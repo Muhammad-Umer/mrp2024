@@ -1,3 +1,5 @@
+# Make sure overview.py is run beforehand
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
